@@ -19,7 +19,7 @@ This project is a responsive and animated login form created using only HTML and
 
 ## Preview
 
-![Login Form Preview][https://ebinlouis.github.io/Animated-LoginForm/]
+[Login Form Preview](https://ebinlouis.github.io/Animated-LoginForm/)
 
 ## Technologies Used
 
